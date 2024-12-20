@@ -37,10 +37,6 @@ This is a simple web application running on localhost with a basic frontend. It 
 
 ### Python Backend
 - Python 3.9 or higher.
-- Install dependencies in the virtual environment:
-  ```bash
-  pip install -r requirements.txt
-  ```
   
 ---
 
