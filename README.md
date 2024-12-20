@@ -1,4 +1,4 @@
-# Spectrogram Service
+# Website for creating spectrograms.
 
 This is a simple web application running on localhost with a basic frontend. It processes audio files to generate spectrograms using two separate backends: one written in Go and the other in Python.
 
